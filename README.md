@@ -1,6 +1,6 @@
 # reverse-engineering-challenge
 
-first of all test file and string commands to know what we have in our hand 
+first of all test file and strings commands to know what we have in our hand 
 file to know file type 
 
 ![file command](https://i.ibb.co/Y2cJT4Q/command-file-test.png)
@@ -11,4 +11,6 @@ ELF:
 
 LSB: mean least-significant byte(little endian)
 
-because we have stripped file, if we use string comamnd  we cannot see symbols
+because we have stripped file, if we use strings comamnd  we cannot see symbols
+
+![file command](https://i.ibb.co/jyvxh0C/strings-command.png)

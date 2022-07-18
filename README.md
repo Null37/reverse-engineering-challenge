@@ -13,4 +13,5 @@ LSB: mean least-significant byte(little endian)
 
 because we have stripped file, if we use strings comamnd  we cannot see symbols
 
-![file command](https://i.ibb.co/jyvxh0C/strings-command.png)
+![strings  command](https://i.ibb.co/jyvxh0C/strings-command.png)
+

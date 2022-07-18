@@ -20,5 +20,5 @@ i check the size we get 2.1M
 
 ![ls  command](https://i.ibb.co/TtCMMRs/Screen-Shot-2022-07-18-at-1-54-55-PM.png)
 
-because this file is an elf file but an elf file can't reach the size of 2M 
+this file is an elf file but an elf headers  can't reach the size of 2M
 

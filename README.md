@@ -1,7 +1,7 @@
 # reverse-engineering-challenge
 
-first of all test file and strings commands to know what we have in our hand 
-file to know file type 
+first of all test this binnary with file and strings commands to know what we have in our hand 
+file command to know file type 
 
 ![file command](https://i.ibb.co/Y2cJT4Q/command-file-test.png)
 

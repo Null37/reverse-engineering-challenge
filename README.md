@@ -22,3 +22,8 @@ i check the size we get 2.1M
 
 this file is an elf file but an elf headers  can't reach the size of 2M
 
+ i used strace command line to check syscall in run proc in this binnary to check can use buffeoverflow or semthing can help to know what the code do
+ 
+ 
+![strace command](https://i.ibb.co/jWRhZ4v/strace.png)
+

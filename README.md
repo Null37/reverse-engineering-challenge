@@ -10,3 +10,5 @@ ELF:
 
 
 LSB: mean least-significant byte(little endian)
+
+because we have stripped file, if we use string comamnd  we cannot see symbols

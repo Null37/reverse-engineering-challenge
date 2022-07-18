@@ -6,6 +6,7 @@ file command to know file type
 ![file command](https://i.ibb.co/Y2cJT4Q/command-file-test.png)
 
 we see **ELF 64-bit LSB executable and stripped**
+
 ELF : Executable and Linkable Format
 
 
